@@ -6,4 +6,8 @@
 - 🚀 Освоить новые фреймворки
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00sleng00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00sleng00&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div><img aling="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=00sleng00&hide=contribs&show_icons=true" />&nbsp;&nbsp;
+  <img aling="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00sleng00&theme=buefy&layout=compact" />
+</div>
