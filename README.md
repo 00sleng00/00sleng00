@@ -5,8 +5,10 @@
 - 🥊 Хочется себя опробовать в больших проектах
 - 🚀 Освоить новые фреймворки
 
+   <h3>:hammer: Мой стек:</h3>
+ 
 
-   <h3>Моя статистика:</h3>
+   <h3>🏆 Моя статистика:</h3>
 
 <div><img aling="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=00sleng00&hide=contribs&show_icons=true" />&nbsp;&nbsp;
   <img aling="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00sleng00&theme=buefy&layout=compact" />
