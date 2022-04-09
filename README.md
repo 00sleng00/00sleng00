@@ -13,5 +13,14 @@
 
 
 
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=00sleng00&theme=solarized_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00sleng00)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=00sleng00&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=00sleng00&theme=solarized_dark)
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=00sleng00&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=00sleng00&theme=solarized_dark)
+
+
