@@ -10,7 +10,7 @@
    ---
  
    
-   ### Мои цели:
+   ### 🎯 Мои цели:
 - 🔥 Хочу развиваться и самореализоваться в веб-разработке
 - 👨‍💻 Стремлюсь работать в команде профессионалов
 - 🥊 Хочется себя опробовать в больших проектах
@@ -18,7 +18,7 @@
 
 ---
 
-   ### Мой стек:
+   ### 🛠 Мой стек:
  
  <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@
  
  ---
 
-   <h3>🏆 Моя статистика:</h3>
+   ### 🏆 Моя статистика:
 
 <div><img aling="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=00sleng00&hide=contribs&show_icons=true" />&nbsp;&nbsp;
   <img aling="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00sleng00&theme=buefy&layout=compact" />
