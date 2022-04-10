@@ -9,8 +9,11 @@
 
    ---
 
- <div align="right"><img src="https://lh3.googleusercontent.com/H86RJjYiHc9H3l1L048dy197SH5GBCAYI7U9UlSnUg8Z3KGZjNzCDh2NChdc5qHSXe_9=h500" width="100" height=""100/> </div>
+<div>
 
+<div align="right"><img src="https://lh3.googleusercontent.com/H86RJjYiHc9H3l1L048dy197SH5GBCAYI7U9UlSnUg8Z3KGZjNzCDh2NChdc5qHSXe_9=h500" width="100" height=""100/> </div>
+
+<div>
 
 ```javascript
 
@@ -28,8 +31,8 @@ const aboutMe = {
   backend: [node.js]
 }
 ```
-
-
+</div>
+</div>
  ---
  
    
