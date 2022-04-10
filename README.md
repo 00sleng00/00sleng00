@@ -8,8 +8,24 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=091E28&center=true&width=500&height=60&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD!;%D0%AF+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA."/></div>
 
    ---
- 
- 
+
+```javascript 
+const aboutMe = {
+       person: {
+          name: Roman Morschikov,
+          age: 35,
+          location: Saint-Petersburg,
+          study: frontend,
+       },
+  code: [html, css, javascript]
+  tools: [git, npm, webpack]
+  design: [figma, vscode, photoshop]
+  backend: [node.js]
+}
+ ```
+
+
+ ---
  
    
    ### 🎯 Мои цели:
