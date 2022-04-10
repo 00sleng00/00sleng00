@@ -9,7 +9,8 @@
 
    ---
 
-```javascript 
+```javascript
+
 const aboutMe = {
        person: {
           name: Roman Morschikov,
@@ -22,8 +23,9 @@ const aboutMe = {
   design: [figma, vscode, photoshop]
   backend: [node.js]
 }
- ```
+```
 
+ <div><img src="https://lh3.googleusercontent.com/H86RJjYiHc9H3l1L048dy197SH5GBCAYI7U9UlSnUg8Z3KGZjNzCDh2NChdc5qHSXe_9=h500"/> </div>
 
  ---
  
