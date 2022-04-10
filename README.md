@@ -16,7 +16,6 @@ const aboutMe = {
           name: Roman Morschikov,
           age: 35,
           location: Saint-Petersburg,     
-
           study: frontend,
        },
   code: [html, css, javascript]
