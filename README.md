@@ -71,5 +71,5 @@ const aboutMe = {
    ### 🏆 Моя статистика:
 
 <div><img aling="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=00sleng00&hide=contribs&show_icons=true" />&nbsp;&nbsp;
-  <img aling="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00sleng00&theme=buefy&layout=compact" />
+  <img aling="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00sleng00&card_width=357&theme=buefy&layout=compact" />
 </div>
