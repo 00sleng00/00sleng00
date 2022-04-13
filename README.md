@@ -9,7 +9,7 @@
 
  ---
 
-![BEZ-IMENI-10af6aa8cf784b74e.png](https://ia.wampi.ru/2022/04/13/BEZ-IMENI-10af6aa8cf784b74e.png)
+![BEZ-IMENI-1d51c561aaa0f72a5.jpg](https://ia.wampi.ru/2022/04/13/BEZ-IMENI-1d51c561aaa0f72a5.jpg)
 
  ---
  
