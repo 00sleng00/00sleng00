@@ -9,21 +9,7 @@
 
  ---
 
-```javascript
-
-const aboutMe = {
-       person: {
-          name: Roman Morschikov,
-          age: 35,
-          location: Saint-Petersburg,     
-          study: frontend,
-       },
-  code: [html, css, javascript]
-  tools: [git, npm, webpack]
-  design: [figma, vscode, photoshop]
-  backend: [node.js]
-}
-```
+![BEZ-IMENI-10af6aa8cf784b74e.png](https://ia.wampi.ru/2022/04/13/BEZ-IMENI-10af6aa8cf784b74e.png)
 
  ---
  
